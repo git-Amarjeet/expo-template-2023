@@ -1,10 +1,12 @@
 # Updated Blank Template with navigation and dark mode
 
-This is an update on the popular ##Rapi UI starter template 
+This is an update on the popular Rapi UI starter template 
 for Expo / React Native. 
 
 ✔️ Includes Expo SDK 47.0 (and the entire dependency tree thereof)
+
 ✔️ Dependencies for running it on web.
+
 ✔️ Added tunnel option for expo start to resolve Expo-Go loading issues on mobile device.
 
 
@@ -52,7 +54,7 @@ for Expo / React Native.
 /src/screens -> for Screens
 ```
 
-# Credits to ## Rapi UI
+# Credits to Rapi UI
 
 These UI components are provided by [Rapi UI](https://rapi-ui.kikiding.space/).
 Check the [documentation](https://rapi-ui.kikiding.space/docs/) for usage and more components.
