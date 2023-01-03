@@ -1,14 +1,23 @@
-# Template Blank with navigation
+# Updated Blank Template with navigation and dark mode
 
-Template starter with React Navigation
+This is an update on the popular ##Rapi UI starter template 
+for Expo / React Native. 
 
-# Preview
+✔️ Includes Expo SDK 47.0 (and the entire dependency tree thereof)
+✔️ Dependencies for running it on web.
+✔️ Added tunnel option for expo start to resolve Expo-Go loading issues on mobile device.
 
-![../media/withnav.gif](../media/withnav.gif)
 
 # Installation
 
 1. Install [node.js](https://nodejs.org/en/)
+   
+   Make sure that you are running Node v16 by using the command below:
+
+   ```jsx
+   nvm use 16
+   ```
+
 2. Install Expo
 
    ```jsx
@@ -16,28 +25,24 @@ Template starter with React Navigation
    ```
 
 3. Download this repo
-4. Install deps on your template folder
 
    ```jsx
-   npm install
+   git clone https://github.com/git-Amarjeet/expo-template-2023.git
+   ```
+
+4. Move into project folder and install dependencies
+
+   ```jsx
+   npm install --legacy-peer-deps
    ```
 
 5. Start the environtment
 
    ```jsx
-   expo start
+   npm start
    ```
 
-## Rapi UI
-
-![../media/hero.png](../media/hero.png)
-
-These UI components are provided by [Rapi UI](https://rapi-ui.kikiding.space/).
-Check the [documentation](https://rapi-ui.kikiding.space/docs/) for usage and more components.
-
-# File Managements
-
-These are the folders and the functionality
+# Folder structure 
 
 ```jsx
 /src/assets -> for media such as images, etc
@@ -47,6 +52,11 @@ These are the folders and the functionality
 /src/screens -> for Screens
 ```
 
-if you find these useful don't forget to give it a star ⭐ and share it to your friends ❤️
+# Credits to ## Rapi UI
 
-Reach me on [twitter](https://twitter.com/kikiding/)
+These UI components are provided by [Rapi UI](https://rapi-ui.kikiding.space/).
+Check the [documentation](https://rapi-ui.kikiding.space/docs/) for usage and more components.
+
+If you find these useful don't forget to give it a star ⭐ and share it to your friends ❤️
+
+Reach him on [twitter](https://twitter.com/kikiding/)
