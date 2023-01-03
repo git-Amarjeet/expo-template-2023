@@ -1,0 +1,17 @@
+node v16.x 
+
+$ nvm use 16
+
+$ npm install --legacy-peer-deps
+
+$ expo doctor --fix-dependencies
+
+^ to fix dependency tree
+
+Update Expo Go SDK update in package.json 
+this project was built on SDK 44.0. current version is sdk 47.0 
+
+$ npm start 
+
+press w, and then expo will show even more dependencies that you 
+need to install to run app on web. 
