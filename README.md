@@ -58,7 +58,4 @@ for Expo / React Native.
 
 These UI components are provided by [Rapi UI](https://rapi-ui.kikiding.space/).
 Check the [documentation](https://rapi-ui.kikiding.space/docs/) for usage and more components.
-
-If you find these useful don't forget to give it a star ⭐ and share it to your friends ❤️
-
 Reach him on [twitter](https://twitter.com/kikiding/)
